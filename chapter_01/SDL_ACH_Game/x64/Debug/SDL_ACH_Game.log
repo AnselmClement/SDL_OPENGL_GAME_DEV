@@ -1,0 +1,5 @@
+﻿  Game.cpp
+F:\Games\Game_programming_by _Sanjay_Madhav\My_Game_ACH_SDL\chapter_01\SDL_ACH_Game\Game.cpp(153,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  SDL_ACH_Game.vcxproj -> F:\Games\Game_programming_by _Sanjay_Madhav\My_Game_ACH_SDL\chapter_01\SDL_ACH_Game\x64\Debug\SDL_ACH_Game.exe

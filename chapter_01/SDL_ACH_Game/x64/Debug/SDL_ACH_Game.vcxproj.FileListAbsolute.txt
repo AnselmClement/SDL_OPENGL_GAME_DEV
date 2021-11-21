@@ -1,0 +1,2 @@
+F:\Games\Game_programming_by _Sanjay_Madhav\My_Game_ACH_SDL\chapter_01\SDL_ACH_Game\x64\Debug\SDL_ACH_Game.exe
+F:\Games\Game_programming_by _Sanjay_Madhav\My_Game_ACH_SDL\chapter_01\SDL_ACH_Game\x64\Debug\SDL_ACH_Game.pdb
